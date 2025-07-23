@@ -3,7 +3,7 @@
 **Customer Engineer (Pre‑Sales) • Solution Architect • Full‑Stack Cloud & AI Engineer**
 
 [![GCP Certified Architect](https://img.shields.io/badge/GCP_Professional_Architect-blue?logo=googlecloud)](https://www.credly.com/)
-[![Elastic Observability Expert](https://img.shields.io/badge/Elastic_Observability-green?logo=elastic)]
+![Elastic Observability Expert](https://img.shields.io/badge/Elastic_Observability-green?logo=elastic)
 ![Experience](https://img.shields.io/badge/Experience-6%2B_years-purple)
 ![Location](https://img.shields.io/badge/Location-India-orange)
 
@@ -60,7 +60,7 @@
 ## 📫 Contact & Connect
 
 **📍 Location:** India (Global Availability)  
-**📧 Email:** [krunal.personalmail@gmail.com](mailto:krunal.personalmail@gmail.com)  
+**📧 Email:** [krunal.personalmail@gmail.com](mailto:krunalkishortote@gmail.com)  
 **🔗 LinkedIn:** [linkedin.com/in/krunal-tote](https://www.linkedin.com/in/krunal-tote)  
 **🐙 GitHub:** [github.com/Krunal123456](https://github.com/Krunal123456)
 
