@@ -1,87 +1,75 @@
-<!-- Profile README for Krunal -->
+# 👋 Hi, I'm Krunal Tote  
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+I'm+Krunal+%F0%9F%91%8B;Cloud+Solution+Architect+%7C+Engineer;Transforming+Ideas+into+Scalable+Solutions;Let%E2%80%99s+Build+the+Future+Together+%F0%9F%92%A1" alt="Typing SVG" />
-</h1>
+**Customer Engineer (Pre‑Sales) • Solution Architect • Full‑Stack Cloud & AI Engineer**
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif" width="200px" />
-</div>
-
----
-
-## 🚀 About Me
-
-- 👨‍💻 Solution Architect | Full Stack Engineer | Customer Engineer (Pre-sales)
-- 🌐 Building intelligent cloud-native, mobile, and AI-powered systems
-- 🧠 Currently learning Generative AI (Vertex AI, Gemini, LangChain)
-- 🛠️ Passionate about Automation, Architecting Systems, and Dev Productivity
-- 💬 Talk to me about GCP, React Native, Spring Boot, LangChain, and n8n
-- 🌍 Based in India | Available for global collaboration
+[![GCP Certified Architect](https://img.shields.io/badge/GCP_Professional_Architect-blue?logo=googlecloud)](https://www.credly.com/)
+[![Elastic Observability Expert](https://img.shields.io/badge/Elastic_Observability-green?logo=elastic)]
+![Experience](https://img.shields.io/badge/Experience-6%2B_years-purple)
+![Location](https://img.shields.io/badge/Location-India-orange)
 
 ---
 
-## 🔧 My Tech Arsenal
+## 🌌 About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,nodejs,java,spring,gcp,firebase,git,kubernetes,docker,python,graphql,n8n" />
-</p>
-
----
-
-## 🎯 Current Focus
-
-<details>
-<summary><b>🧠 Learning and Building</b></summary>
-
-- ✨ Multilingual AI assistants with Gemini + LangChain
-- ✨ End-to-End App Modernization on Google Cloud
-- ✨ Designing highly available systems with Prometheus, Firebase & Looker
-
-</details>
-
-<details>
-<summary><b>🤝 Collaboration Interests</b></summary>
-
-- ✅ Chatbots with real-time API integration
-- ✅ Scalable Mobile & Web Applications
-- ✅ LLM-powered automation workflows (Docs, UI, CRM)
-
-</details>
+- 🎯 I craft **cloud-native**, **AI-powered**, and **enterprise-scale** solutions with seamless user experiences.  
+- 🔐 I ensure secure, observable, and compliant systems from the ground up.  
+- 🤖 I specialize in **LLM/chatbot integration**, **workflow automation**, and **app modernization**.  
+- 💼 Currently empowering clients at **Niveus Solutions**, and open to global collaborations.
 
 ---
 
-## 📈 GitHub Stats
+## 🧭 Core Expertise
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krunal123456&show_icons=true&theme=tokyonight&border_radius=12&count_private=true&hide=issues" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krunal123456&layout=compact&theme=tokyonight&border_radius=12" width="49%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krunal123456&theme=tokyonight&border_radius=12" width="80%"/>
-</p>
+- 🌐 App Modernization: Web, Mobile, Backend  
+- ☁️ Google Cloud Platform Architecture & Strategy  
+- 🤖 LLM & Chatbot Engineering (Gemini, LangChain, OpenAI)  
+- 🔄 Workflow & CI/CD Automation (n8n, GitHub Actions, Cloud Functions, Pub/Sub)  
+- 📊 Observability & Monitoring (Prometheus, Sentry, ELK, Looker Studio)  
+- 🧷 Pre‑Sales Engineering & Technical Strategy  
 
 ---
 
-## 📫 Let's Connect
+## 🛠 Tech Stack
 
-<p align="center">
-  <a href="mailto:krunal.personalmail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/krunal-tech/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Krunal123456"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-## ✨ Fun Fact
-
-> I'm not just building apps—I'm architecting experiences, automating complexity, and crafting simplicity at scale.  
-> "Simplicity is the soul of efficiency." — Austin Freeman
+**Frontend**: React • React Native • Next.js  
+**Backend**: Spring Boot • Node.js • Express  
+**Languages**: Java • TypeScript • Dart • Python  
+**Cloud / DevOps**: GCP • Firebase • Docker • Kubernetes  
+**AI / LLM**: Vertex AI • Gemini • LangChain • OpenAI  
+**Automation**: n8n • GitHub Actions • Cloud Functions • Pub/Sub  
+**Monitoring**: Prometheus • ELK • Sentry • Looker Studio  
 
 ---
 
-<!-- GitHub README Footer -->
+## 🎓 Certifications & Achievements
+
+- ✅ **Google Cloud Professional Cloud Architect**  
+- ✅ **Elastic Observability Expert**  
+- 🏅 Additional credentials in progress: Cloud Security, Prompt Engineering  
+
+---
+
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krunal123456&show_icons=true&theme=dark&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krunal123456&layout=compact&theme=dark)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Krunal123456&theme=dark)
+
+---
+
+## 📫 Contact & Connect
+
+**📍 Location:** India (Global Availability)  
+**📧 Email:** [krunal.personalmail@gmail.com](mailto:krunal.personalmail@gmail.com)  
+**🔗 LinkedIn:** [linkedin.com/in/krunal-tote](https://www.linkedin.com/in/krunal-tote)  
+**🐙 GitHub:** [github.com/Krunal123456](https://github.com/Krunal123456)
+
+---
+
+> “Build systems that think, scale, and self-heal. Architect like a legend — ship like a hacker.”
+
+---
+
 <!---
-Krunal123456/Krunal123456 is a ✨ special ✨ repository because its README.md appears on your GitHub profile!
+Krunal123456/Krunal123456 is a ✨ special ✨ repository because its README appears on your GitHub profile.
 -->
